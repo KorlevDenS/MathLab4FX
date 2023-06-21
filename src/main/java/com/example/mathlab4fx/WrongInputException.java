@@ -1,4 +1,4 @@
-package com.example.mathlab2fx.simple_iteration;
+package com.example.mathlab4fx;
 
 public class WrongInputException extends Exception{
 
